@@ -29,7 +29,7 @@ export default class ValueCheck {
 ```
 
 ```javascript
-// how ts ValueCheck class lock like
+// how js ValueCheck class lock like
 export default class ValueCheck {
   constructor() {
     this.height2 = 12.5;
